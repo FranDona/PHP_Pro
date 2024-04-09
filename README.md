@@ -15,7 +15,7 @@
 
 ## **Aclaraciones del proyecto**
 
-El proyecto consiste en la página de un concesionario en el que se puede acceder a una zona de clientes y una zona de empleados la cual necesita una clave
+El proyecto consiste en la página de un concesionario en el que se puede acceder a una zona de clientes y una zona de empleados la cual necesita una clave. Usuario: soltel Clave: admin
 
 ### **Zona cliente**
 
