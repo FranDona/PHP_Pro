@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    background-image: url('https://images.pexels.com/photos/63324/california-road-highway-mountains-63324.jpeg?cs=srgb&dl=pexels-pixabay-63324.jpg&fm=jpg');
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+body > section {
+    max-width: 400px;
+    margin: auto;
+    margin-top: 10%;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.75);
+    opacity: 0.90;
+    border-radius: 5px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.10);
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 8px;
+    box-sizing: border-box;
+}
